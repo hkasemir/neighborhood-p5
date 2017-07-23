@@ -1,6 +1,8 @@
-Udacity FEND Project 5-1 the neighborhood map.
+my stomping grounds in boulder
 
-I use the Yelp API to get information on places
-I would go to a lot in Boulder, CO, which I display
-on a google map. I used Knockout.js to help organize
-my code and make bindings!
+I used the Pixabay API to get images of search terms related to places
+I would go to a lot in Boulder, CO.
+
+built with knockoutjs
+
+to run, simply clone and open index.html in your favorite browser.
